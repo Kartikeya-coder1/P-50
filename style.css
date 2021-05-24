@@ -1,0 +1,153 @@
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+body{
+    background-color: rgb(182, 35, 219);
+    /* background-image: url('bg.jpg'); */
+    /* background-size: 80%; */
+}
+
+a:link{
+    color: yellow;
+}
+
+a:visited{
+    color: red;
+}
+
+/* .text {
+    color: aliceblue;
+    position: absolute;
+    /* padding: 0px 0px 0px 0px; */
+     /* bottom: 300px; 
+    left: 16px; 
+}  */ 
+.menu {
+    margin: 10px;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+} 
+.menu h2{
+    color: #ffffff;
+}
+/* .origami{
+    border: red solid 2px ; */
+/* } */
+
+.origami img{
+    /* position: relative; */
+    float: left;
+    height: 30%;
+    width: 20%;
+    border: red solid 2px ;
+    border-radius: 50px;
+    margin-left: 10%;
+}
+.a h2{
+    position: absolute;
+    top: 570px;
+    left:250px;
+    transform: translate(-50%,-50%);
+    color: yellow;
+}
+.b h2{
+    position: absolute;
+    top: 570px;
+    left:650px;
+    transform: translate(-50%,-50%);
+    color: yellow;
+}
+.c h2{
+    position: absolute;
+    top: 570px;
+    left:1000px;
+    transform: translate(-50%,-50%);
+    color: yellow;
+}
+
+
+.d h2{
+    /* panda */
+    position: absolute;
+    top: 1100px;
+    left:250px;
+    transform: translate(-50%,-50%);
+    color: yellow;
+}
+.e h2{
+    /* pigeon */
+    position: absolute;
+    top: 1080px;
+    left:650px;
+    transform: translate(-50%,-50%);
+    color: yellow;
+}
+.f h2{
+    /* teddy */
+    position: absolute;
+    top: 1080px;
+    left:1000px;
+    transform: translate(-50%,-50%);
+    color: yellow;
+}
+
+   /*   //////// */
+
+/* .a{  border: red solid 2/px ;} */
+
+.a ul{
+    position: absolute;
+    top: 700px;
+    left:250px;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    border: red solid 2px ;
+  
+}
+.b ul{
+    position: absolute;
+    top: 700px;
+    left:650px;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    border: red solid 2px ;
+}
+.c ul{
+    position: absolute;
+    top: 700px;
+    left:1000px;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    border: red solid 2px ;
+}
+
+
+.d ul{
+    /* panda */
+    position: absolute;
+    top: 1210px;
+    left:650px;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    border: red solid 2px ;
+}
+.e ul{
+    /* teddy */
+    position: absolute;
+    top: 1210px;
+    left:1000px;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    border: red solid 2px ;
+}
+.f ul{
+    /* panda */
+    position: absolute;
+    top: 1210px;
+    left:230px;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    border: red solid 2px ;
+}
